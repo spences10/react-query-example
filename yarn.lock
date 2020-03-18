@@ -9975,6 +9975,16 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
+react-query-devtools@1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.0.12.tgz#64c156efde718f8483fd94fa44108c5c8e0c9568"
+  integrity sha512-kjIh9Z2UgZxxrd6TdenpWDofT/2cAaN/9vn+/FEPkdmfWTPmNw1zevEuDqZtE+ZhM70YIPS4RzO9kgEBt3dZcQ==
+
+react-query@1.0.29:
+  version "1.0.29"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.0.29.tgz#80e42223c5bde582b892ed606fdde069d6165a7b"
+  integrity sha512-jfgv8xyGS7OAhwIVMx52oK4vBtCgVkCdQrWCMFDI+TgYIXUsCgXL2+dsIVNyM7IylUNneSfAncaF3HCKHe55eQ==
+
 react-reconciler@^0.24.0:
   version "0.24.0"
   resolved "https://registry.yarnpkg.com/react-reconciler/-/react-reconciler-0.24.0.tgz#5a396b2c2f5efe8554134a5935f49f546723f2dd"
