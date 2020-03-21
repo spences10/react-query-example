@@ -9980,10 +9980,10 @@ react-query-devtools@1.0.12:
   resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.0.12.tgz#64c156efde718f8483fd94fa44108c5c8e0c9568"
   integrity sha512-kjIh9Z2UgZxxrd6TdenpWDofT/2cAaN/9vn+/FEPkdmfWTPmNw1zevEuDqZtE+ZhM70YIPS4RzO9kgEBt3dZcQ==
 
-react-query@1.0.29:
-  version "1.0.29"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.0.29.tgz#80e42223c5bde582b892ed606fdde069d6165a7b"
-  integrity sha512-jfgv8xyGS7OAhwIVMx52oK4vBtCgVkCdQrWCMFDI+TgYIXUsCgXL2+dsIVNyM7IylUNneSfAncaF3HCKHe55eQ==
+react-query@1.0.33:
+  version "1.0.33"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.0.33.tgz#b9b973b33a4173833b6cf097bceba9ba9e286530"
+  integrity sha512-C4uT9zNMLYnPSQ0EWmR5idaNX6IGmvnvmx/i2tqPIdI6g8a8LzG7W/Fo/pING2VzeT38okTXJkRwhla6hb/ezQ==
 
 react-reconciler@^0.24.0:
   version "0.24.0"
