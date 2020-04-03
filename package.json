@@ -20,7 +20,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1",
-    "react-query": "1.2.0",
+    "react-query": "1.2.1",
     "react-query-devtools": "1.0.13",
     "styled-components": "5.0.1",
     "styled-reset": "4.1.2"
