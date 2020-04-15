@@ -10066,10 +10066,10 @@ react-query-devtools@1.1.0:
   resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.1.0.tgz#95d4ebea3669e727e0529eb5ebc097f6aed81bed"
   integrity sha512-ONcJYmrZiwQX/q3iCXJW0xrqeRBT6Bf+tMa1JtQ3MmlKLN9N7H57c4FEprm9qaEta5buTv6K9pNFbEUvcbhmvQ==
 
-react-query@1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.2.3.tgz#db904d119b750cac07b59823bd5a69dcbda58a5f"
-  integrity sha512-94puy1PhGKp5g+2kRsCGcps3xNGKOycE8Z6vYTmFUD1ir2aUpEU5nD2p4aT5ATYPsa5jH6eOgxhZym+S90mRMA==
+react-query@1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/react-query/-/react-query-1.2.4.tgz#3de46c12250423f16e131a7b3841da03d7351bd7"
+  integrity sha512-NCy35GiXbiLUarjj6xtA8vxJo9W29bFB7t40GpwPRH/aIqFu3tJz/KpD+IvVUUuMKWOpeVMEgprSpgLAd/Ft3Q==
   dependencies:
     "@scarf/scarf" "^0.1.3"
 
