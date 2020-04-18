@@ -10061,10 +10061,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-query-devtools@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.1.0.tgz#95d4ebea3669e727e0529eb5ebc097f6aed81bed"
-  integrity sha512-ONcJYmrZiwQX/q3iCXJW0xrqeRBT6Bf+tMa1JtQ3MmlKLN9N7H57c4FEprm9qaEta5buTv6K9pNFbEUvcbhmvQ==
+react-query-devtools@1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/react-query-devtools/-/react-query-devtools-1.1.3.tgz#4907ecbc672ebee99184b27f463af10f70c1c3dd"
+  integrity sha512-5oNXlLt0jpe1sdoY9T3Bt32gGvUanbu62fEmPNOMNHFz3z27ygn2qcspcb6lXJ7wL43ClsnCQ4l2h9n0x94v0g==
 
 react-query@1.2.7:
   version "1.2.7"
